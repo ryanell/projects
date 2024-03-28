@@ -1,4 +1,5 @@
-# projects
+# Projects
+A collection of old projects 
 
 ## Latex Game
 
